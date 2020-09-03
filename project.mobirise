@@ -80,7 +80,7 @@
       "underlineLink": true,
       "opacity": "99",
       "opacityOverlay": "80",
-      "text": "please wait for everything to load, it will take around 10-15 seconds",
+      "text": "please wait for everything to load, it will take around 10-15 seconds\ndepending on your network",
       "textButton": "ok"
     },
     "google-analytics": "",
