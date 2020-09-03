@@ -65,7 +65,27 @@
     "versionPublish": "5.0.29",
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "favicon": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": false,
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "opacityOverlay": "80",
+      "text": "please wait for everything to load, it will take around 10-15 seconds",
+      "textButton": "ok"
+    },
+    "google-analytics": "",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "gdpr": false
   },
   "pages": {
     "index.html": {
