@@ -1203,6 +1203,57 @@ a {
 .cid-s8X2IJIteC .user_text {
   text-align: left;
 }
+.cid-s9AHm3IuVH {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/mbr-1920x1706.jpg");
+}
+.cid-s9AHm3IuVH .carousel-item {
+  justify-content: center;
+}
+.cid-s9AHm3IuVH .carousel-item.active,
+.cid-s9AHm3IuVH .carousel-item-next,
+.cid-s9AHm3IuVH .carousel-item-prev {
+  display: flex;
+}
+.cid-s9AHm3IuVH .carousel-controls a {
+  transition: opacity .5s;
+  font-size: 22px;
+  position: absolute;
+  top: 180px;
+  bottom: auto;
+  height: 60px;
+  width: 60px;
+  padding: 10px;
+  border-radius: 50%;
+  color: #585858;
+  background: #c8c6c6;
+}
+.cid-s9AHm3IuVH .carousel-control-next span {
+  padding-left: 5px;
+}
+.cid-s9AHm3IuVH .carousel-control-prev span {
+  padding-right: 5px;
+}
+.cid-s9AHm3IuVH .user_image {
+  width: 200px;
+  height: 200px;
+  margin-bottom: 1.6rem;
+  overflow: hidden;
+  border-radius: 50%;
+  margin: 0 auto 2rem auto;
+}
+.cid-s9AHm3IuVH .user_image img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+@media (max-width: 230px) {
+  .cid-s9AHm3IuVH .user_image {
+    width: 100%;
+    height: auto;
+  }
+}
 .cid-s9vP33bRZu {
   padding-top: 0rem;
   padding-bottom: 9rem;
